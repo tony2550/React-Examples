@@ -1,0 +1,15 @@
+.toggleList {
+  margin-left: 20vw;
+  margin-right: 20vw;
+  background-color: beige;
+  color: black;
+}
+
+.collapse__childwrapper {
+  height: 0px;
+  overflow: hidden;
+}
+
+.collapse__childwrapper.open { 
+  height: auto;
+}
